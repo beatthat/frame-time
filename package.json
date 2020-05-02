@@ -1,7 +1,7 @@
 {
   "name": "frame-time",
   "scope": "beatthat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "utility functions for converting between time and frame numbers",
   "main": "index.js",
   "scripts": {
